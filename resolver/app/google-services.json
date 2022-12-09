@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895121955457",
+    "project_id": "spikeaware-5c7d0",
+    "storage_bucket": "spikeaware-5c7d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895121955457:android:5866778f285097cdcb4b80",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.aad.W9507024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895121955457-pelp4gvp25j17u3g7meou40j8m25bdid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7JKFsIokuOAESdGoo60smCnEJw7Ee2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895121955457-pelp4gvp25j17u3g7meou40j8m25bdid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
