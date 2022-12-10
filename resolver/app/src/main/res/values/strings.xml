@@ -17,4 +17,8 @@
     <string name="buy_spike_detectors">Buy Spike Detectors</string>
     <string name="know_more">Know More</string>
     <string name="news_on_spiking">News on Spiking</string>
+    <string name="name">Name</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="map_key">AIzaSyDoRwKECDlPIHLmH1rWdpl_z_VXCwE0T5Q</string>
+    <string name="alert_message_with_your_location_sent_to_your_friends">Alert Message with your location sent to your friends</string>
 </resources>
