@@ -9,4 +9,6 @@
     <string name="an_emergency_adng_guidelines_application_to_pervent_spikeaware">An Emergency adng guidelines application to pervent spikeaware</string>
     <string name="don_t_have_account_register_here">Don\'t have account? Register Here</string>
     <string name="login_here">Login Here!</string>
+    <string name="logout">LOGOUT</string>
+    <string name="spike_aware">SPIKE AWARE</string>
 </resources>

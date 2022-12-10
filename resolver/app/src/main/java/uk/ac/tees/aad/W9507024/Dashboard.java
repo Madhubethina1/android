@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -23,6 +24,7 @@ public class Dashboard extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 mAuth.signOut();
+                Toast.makeText(getApplicationContext(),"Logout Successful", Toast.LENGTH_LONG).show();
                 startActivity(new Mover(getApplicationContext(),Login.class));
             }
         });
