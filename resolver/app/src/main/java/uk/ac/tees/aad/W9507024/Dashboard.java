@@ -28,6 +28,62 @@ public class Dashboard extends AppCompatActivity {
                 startActivity(new Mover(getApplicationContext(),Login.class));
             }
         });
+        View help = findViewById(R.id.constraintLayout6);
+        View taxi= findViewById(R.id.constraintLayout4);
+        View add = findViewById(R.id.constraintLayout);
+        View alert = findViewById(R.id.constraintLayout2);
+        View news = findViewById(R.id.constraintLayout5);
+        View shop = findViewById(R.id.constraintLayout3);
+
+        help.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Mover(getApplicationContext(), help.class));
+            }
+        });
+
+        taxi.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Mover(getApplicationContext(), taxi.class));
+            }
+        });
+
+        add.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Mover(getApplicationContext(), add.class));
+            }
+        });
+
+        news.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Mover(getApplicationContext(), news.class));
+            }
+        });
+
+       alert.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Mover(getApplicationContext(), alert.class));
+            }
+        });
+
+        shop.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Mover(getApplicationContext(), shop.class));
+            }
+        });
+
+
+
+
+
+
+
+
 
     }
 

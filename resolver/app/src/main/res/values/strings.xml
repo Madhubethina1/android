@@ -11,4 +11,10 @@
     <string name="login_here">Login Here!</string>
     <string name="logout">LOGOUT</string>
     <string name="spike_aware">SPIKE AWARE</string>
+    <string name="alert_friends">Alert Friends</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="book_taxi">Book taxi</string>
+    <string name="buy_spike_detectors">Buy Spike Detectors</string>
+    <string name="know_more">Know More</string>
+    <string name="news_on_spiking">News on Spiking</string>
 </resources>

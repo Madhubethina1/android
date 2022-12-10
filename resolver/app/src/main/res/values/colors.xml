@@ -10,4 +10,8 @@
     <color name="logocolour">#FD007D</color>
     <color name="logolight">#e3549b</color>
     <color name="diffrentcolour">#e0ced7</color>
+
+    <color name="danger">#fcd8c5</color>
+    <color name="medium">#f9fcc5</color>
+    <color name="cool">#dafcc5</color>
 </resources>
