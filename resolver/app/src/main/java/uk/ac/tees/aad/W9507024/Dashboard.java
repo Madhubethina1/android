@@ -28,11 +28,11 @@ public class Dashboard extends AppCompatActivity {
                 startActivity(new Mover(getApplicationContext(),Login.class));
             }
         });
-        View help = findViewById(R.id.constraintLayout6);
+        View help = findViewById(R.id.constraintLayout5);
         View taxi= findViewById(R.id.constraintLayout4);
         View add = findViewById(R.id.constraintLayout);
         View alert = findViewById(R.id.constraintLayout2);
-        View news = findViewById(R.id.constraintLayout5);
+        View news = findViewById(R.id.constraintLayout6);
         View shop = findViewById(R.id.constraintLayout3);
 
         help.setOnClickListener(new View.OnClickListener() {
