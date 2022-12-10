@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="logocolour">#FD007D</color>
+    <color name="logolight">#e3549b</color>
+    <color name="diffrentcolour">#e0ced7</color>
 </resources>

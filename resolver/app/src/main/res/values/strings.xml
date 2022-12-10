@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">spike aware</string>
+    <string name="todo">to</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="an_emergency_adng_guidelines_application_to_pervent_spikeaware">An Emergency adng guidelines application to pervent spikeaware</string>
+    <string name="don_t_have_account_register_here">Don\'t have account? Register Here</string>
+    <string name="login_here">Login Here!</string>
 </resources>
