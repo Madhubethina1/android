@@ -6,12 +6,12 @@
     <string name="enter_password">Enter password</string>
     <string name="register">REGISTER</string>
     <string name="enter_name">Enter Name</string>
-    <string name="an_emergency_adng_guidelines_application_to_pervent_spikeaware">An Emergency adng guidelines application to pervent spikeaware</string>
+    <string name="an_emergency_adng_guidelines_application_to_pervent_spikeaware">An Emergency and guidelines application to pervent spikeaware</string>
     <string name="don_t_have_account_register_here">Don\'t have account? Register Here</string>
     <string name="login_here">Login Here!</string>
     <string name="logout">LOGOUT</string>
     <string name="spike_aware">SPIKE AWARE</string>
-    <string name="alert_friends">Alert Friends</string>
+    <string name="alert_friends">SOS</string>
     <string name="add_friend">Add Friend</string>
     <string name="book_taxi">Book taxi</string>
     <string name="buy_spike_detectors">Buy Spike Detectors</string>
@@ -20,7 +20,7 @@
     <string name="name">Name</string>
     <string name="enter_mobile_number">Enter mobile number</string>
     <string name="map_key">AIzaSyDoRwKECDlPIHLmH1rWdpl_z_VXCwE0T5Q</string>
-    <string name="alert_message_with_your_location_sent_to_your_friends">Alert Message with your location sent to your friends</string>
+    <string name="alert_message_with_your_location_sent_to_your_friends">Alert Message with your location sent to your friends and \n 999</string>
     <string name="shop_and_stay_safe">SHOP AND STAY SAFE</string>
     <string name="stoptopps">stoptopps</string>
     <string name="buy">Buy</string>
@@ -125,4 +125,5 @@ Emergency Services\n
 
 \n
     </string>
+    <string name="textview">TextView</string>
 </resources>
