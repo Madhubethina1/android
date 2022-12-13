@@ -40,7 +40,8 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fri_mob" />
 
     <EditText
         android:id="@+id/fri_mob"
@@ -51,7 +52,8 @@
         android:inputType="phone"
         app:layout_constraintBottom_toTopOf="@+id/add_fri"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fri_name" />
 
     <EditText
         android:id="@+id/fri_name"
@@ -62,12 +64,13 @@
         android:text="@string/name"
         app:layout_constraintBottom_toTopOf="@+id/fri_mob"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/list_friends" />
 
     <ListView
         android:id="@+id/list_friends"
-        android:layout_width="409dp"
-        android:layout_height="532dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:background="@color/diffrentcolour"
         app:layout_constraintBottom_toTopOf="@+id/fri_name"
         app:layout_constraintEnd_toEndOf="parent"

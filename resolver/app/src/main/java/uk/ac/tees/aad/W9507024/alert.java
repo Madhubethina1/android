@@ -54,7 +54,6 @@ public class alert extends AppCompatActivity {
                         for (DataSnapshot postSnapshot: snapshot.getChildren()) {
                             friends.add(postSnapshot.getValue(Friend.class));
                         }
-                        Toast.makeText(getApplicationContext(),friends.toString(),Toast.LENGTH_LONG).show();
 
                         checkLocationPermissions();
 
